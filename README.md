@@ -7,6 +7,13 @@ This is one of the side projects of the DS.X RC Heli Project. The complete re-de
 
 ![1641547458246](https://github.com/user-attachments/assets/4d2f099d-92b0-41bd-a15f-768f6433e20f)
 
+![P1020158s](https://github.com/user-attachments/assets/f0177703-6d7d-4a3a-92fe-3b06f170c236)
+
+![P1020159s](https://github.com/user-attachments/assets/4575259d-8317-451f-94e1-0cab7fbd1b3d)
+<br>
+<br>
+
+
 > # Licensing:
 > This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
