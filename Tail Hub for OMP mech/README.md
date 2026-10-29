@@ -13,6 +13,8 @@ The tail pulley needs to be drilled to fit the 6mm diameter OMP tail shaft and t
 
 <img width="918" height="1224" alt="IMG_20260911_231236~2s" src="https://github.com/user-attachments/assets/86a8b636-5f20-4846-8975-168c7949a33e" />
 
+<img width="918" height="1224" alt="IMG_20261029_102918s" src="https://github.com/user-attachments/assets/d5d6bf99-8d0b-4c74-aad5-d8cc9a13e2a1" />
+
 
 <br>
 <br>
